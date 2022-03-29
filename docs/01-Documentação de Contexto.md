@@ -8,16 +8,26 @@ As ONGs configuram entidades que trabalham incansavelmente para garantir o bem-e
 .
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+De um lado, temos seres humanos que evitam, maltratam e/ou abandonam animais. Do outro, temos os que acolhem e sentem-se bem com animais de estimação ao seus redores, desenvolvendo relações de afeto consideradas inexplicáveis frente aos tantos bons sentimentos que estes lhes inspiram. Na era dos influenciadores digitais, o Instagram da Casa do Vira-Lata tem alcançado sucesso ao mostrar a rotina dos bichos que Gabriel Chaves acolhe, desde o resgate até o novo lar. Com nomes que homenageiam seguidores da página, os pets conquistam fãs e emocionam milhares de pessoas que acompanham o dia-a-dia dos bichos como uma espécie de reality show. Na data de 5 de março de 2022 a @casadoviralata possuia aproximadamente cento e quarenta e cinco mil seguidores. A antiga garagem da casa dos pais do Gabrirl deixou de atender a demanda. Atualmente, a ONG conta com dois espaços (casas) para abrigar dezenas de animais de estimação abandonados nas ruas de São Paulo e região metropolitana. Na descrição do perfil da Casa consta: “Não existem animais de rua, existem animais nas ruas, e eles precisam de nós. Levo até você pela capital de São Paulo”. E assim, em cerca de um ano e meio, a ONG resgatou, cuidou de, e doou aproximadamente trezentos e cinquenta animais.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Diante do número cada vez mais elevado de seguidores, em sua maioria fãs dos cachorros e gatos mostrados no dia-a-dia das casas, o número de interessados em adoções cresceu em proporção. A quantidade de direct messages (DMs) já não era mais possível de ser visualizada e respondida diariamente. E enquanto isso, a Casa do Vira-Lata potencializava parcerias com clínicas veterinárias e promovia estratégias diariamente para fomentar a contribuição financeira dos próprios seguidores e voluntários terceiros. Dessa forma, conseguia arcar com as enormes despesas semanais. A título de exemplo, segue abaixo uma sequência de imagens postadas no Instagram, no formato Stories, na data de 4 de março de 2022, como estratégia para convidar mais colaboradores para a causa da Casa.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
+Figura 01: Sequência de imagens dos stories da do Instagram da Casa do Vira-Lata relatando um resumo da trajetória do cão Caio:
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-grande-bh-team/issues/1#issue-1184142342
+
+Fonte: print screen da aplicação no sistema operacional Android.
+
+Figura 02: Sequência de imagens dos stories da do Instagram da Casa do Vira-Lata relatando um resumo da trajetória do cão Caio:
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-grande-bh-team/issues/2#issue-1184143162
+
+Fonte: print screen da aplicação no sistema operacional Android.
+
+
+
 
 ## Objetivos
 
