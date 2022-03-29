@@ -35,25 +35,16 @@ Diante do exposto, o objetivo integral deste trabalho é criar uma aplicação m
 
 Os principais objetivos, em ordem de importância, são:
 
-Cadastrar os animais moradores da Casa do Vira-Lata, tanto os já resgatados quanto os que serão recolhidos das ruas.
+* Cadastrar os animais moradores da Casa do Vira-Lata, tanto os já resgatados quanto os que serão recolhidos das ruas.
+* Criar uma ferramenta para gerenciar a abertura de candidatura de interessados, através do registro de uma carta de intenção no aplicativo. 
+* Criar um sistema de deslizar as fotos dos animais para um lado ou para o outro, definindo uma lista de interesse para o candidato a tutor;
+* Criar uma ferramenta para selecionar um ou mais animais, de acordo com o interesse final do candidato a tutor para que possa proceder com a sua carta de intenção;
+* Gerar um número de protocolo para cada candidatura;
+* Automatização de prioridades de acordo com os perfis;
+* Compartilhamento do status da saúde do animal, como data de vacinação, possíveis internações ou quaisquer outras eventualidades;
+* Produzir uma ferramenta que seja capaz de automatizar o fluxo de intenção de adoção frente à demandas;
+* Permitir o acompanhamento da evolução clínica e das prováveis datas de entrega do(s) animal(is).
 
-Criar uma ferramenta para gerenciar a abertura de candidatura de interessados, através do registro de uma carta de intenção no aplicativo. 
-
-Criar um sistema de deslizar as fotos dos animais para um lado ou para o outro, definindo uma lista de interesse para o candidato a tutor;
-
-Criar uma ferramenta para selecionar um ou mais animais, de acordo com o interesse final do candidato a tutor para que possa proceder com a sua carta de intenção;
-
-Gerar um número de protocolo para cada candidatura;
-
-Automatização de prioridades de acordo com os perfis;
-
-Compartilhamento do status da saúde do animal, como data de vacinação, possíveis internações ou quaisquer outras eventualidades;
-
-Produzir uma ferramenta que seja capaz de automatizar o fluxo de intenção de adoção frente à demandas;
-
-Permitir o acompanhamento da evolução clínica e das prováveis datas de entrega do(s) animal(is).
-
- 
 
 
 ## Justificativa
