@@ -31,31 +31,38 @@ Fonte: print screen da aplicação no sistema operacional Android.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Diante do exposto, o objetivo integral deste trabalho é criar uma aplicação móvel que apresenta funcionalidades que possibilitam o gerenciamento das demandas pertinentes no que tange à comunicação, seleção dos seguidores/pessoas com interesse de adoção a determinados animais, de forma a organizar o sistema de adoção dos pets da Casa do Vira-Lata. Será chamada de Match Pet. Similar a uma rede social de cães e gatos, com essa aplicação será possível mensurar as demandas de adoções, atribuindo a elas a possibilidade de candidaturas, avaliação dos perfis, atualização de status e, caso necessário, envolvimento de clínicas veterinárias parceiras e/ou outros tipos de comércio dedicados ao cuidado animal.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Os principais objetivos, em ordem de importância, são:
+
+Cadastrar os animais moradores da Casa do Vira-Lata, tanto os já resgatados quanto os que serão recolhidos das ruas.
+
+Criar uma ferramenta para gerenciar a abertura de candidatura de interessados, através do registro de uma carta de intenção no aplicativo. 
+
+Criar um sistema de deslizar as fotos dos animais para um lado ou para o outro, definindo uma lista de interesse para o candidato a tutor;
+
+Criar uma ferramenta para selecionar um ou mais animais, de acordo com o interesse final do candidato a tutor para que possa proceder com a sua carta de intenção;
+
+Gerar um número de protocolo para cada candidatura;
+
+Automatização de prioridades de acordo com os perfis;
+
+Compartilhamento do status da saúde do animal, como data de vacinação, possíveis internações ou quaisquer outras eventualidades;
+
+Produzir uma ferramenta que seja capaz de automatizar o fluxo de intenção de adoção frente à demandas;
+
+Permitir o acompanhamento da evolução clínica e das prováveis datas de entrega do(s) animal(is).
+
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O projeto se dá pela praticidade de cadastros e acompanhamentos em tempo real das intenções de adoção dos cães e gatos da Casa do Vira-Lata. A aplicação promoveria uma interação mais fluida e assertiva de modo a organizar e atender as dinâmicas da ONG bem como informar e tranquilizar as futuras famílias dos pets., pois até então, adotar um bicho da Casa do Vira-Lata não é um processo simples. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O potencial tutor passa por entrevista, precisa mandar fotos dos locais em que o animal irá ficar e até comprovar uma rede de apoio, em caso de viagens. Escolhido o dono, o animal é levado até o novo lar, onde um termo de compromisso é assinado. A aplicação Match Pet poderia dinamizar todo este processo de forma mais simplificada e organizada.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O Match Pet seria destinado inicialmente aos seguidores do Instagram da Casa do Vira-Lata. Posteriormente poderia ser adaptado e disponibilizado para outras instituições semelhantes com o intuito de diminuir o número de animais abandonados nas ruas e em abrigos. Todos os pets merecem uma vida digna, regada com respeito, proteção e amor. Por esse motivo, ao concretizar uma adoção responsável o responsável proporciona uma vida de mais qualidade para o animal de rua ou abandonado.
