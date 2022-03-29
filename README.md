@@ -1,12 +1,17 @@
-# Projeto 
+# Match Pet
 
-`CURSO`
+`Turma 3 de Análise e Desenvolvimento de Sistemas/2021`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`Aplicação Móvel em um Ambiente de Negócio`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Animais de estimação fazem parte da convivência humana desde os tempos primitivos. Essa interação, em suma, pode se tornar muito especial. Nota-se que cães e gatos, principalmente, tendem a desenvolver um amor incondicional por seus tutores. Todavia, de um lado, temos seres humanos que evitam, maltratam e/ou abandonam animais. Do outro, temos os que acolhem e sentem-se bem com animais de estimação ao seus redores, desenvolvendo relações de afeto consideradas inexplicáveis frente aos tantos bons sentimentos que estes lhes inspiram. Na era dos influenciadores digitais, o Instagram da Casa do Vira-Lata tem alcançado sucesso ao mostrar a rotina dos bichos que a ONG acolhe, desde o resgate até o novo lar. 
+
+Diante do exposto, o objetivo integral deste trabalho é criar uma aplicação móvel que apresenta funcionalidades que possibilitam o gerenciamento das demandas pertinentes no que tange à comunicação, seleção dos seguidores/pessoas com interesse de adoção a determinados animais, de forma a organizar o sistema de adoção dos pets da Casa do Vira-Lata.
+
+
+
 
 ## Integrantes
 
