@@ -16,7 +16,7 @@ Diante do número cada vez mais elevado de seguidores, em sua maioria fãs dos c
 
 Figura 01: Sequência de imagens dos stories da do Instagram da Casa do Vira-Lata relatando um resumo da trajetória do cão Caio:
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-grande-bh-team/issues/1#issue-1184142342
+![Imagem 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-grande-bh-team/issues/1#issue-1184142342)
 
 Fonte: print screen da aplicação no sistema operacional Android.
 
