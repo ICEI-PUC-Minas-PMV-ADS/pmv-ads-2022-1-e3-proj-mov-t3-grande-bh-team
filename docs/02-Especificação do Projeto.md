@@ -67,12 +67,9 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Rafael Augusto Lopes | Sistema de fotos e identificação do animal interessado           | Não esquecer de fazê-las               |
 
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Apresente aqui os problemas existentes que viabilizam (seria "inviabilizam"??) sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
 
 ### Descrição Geral da Proposta
 
