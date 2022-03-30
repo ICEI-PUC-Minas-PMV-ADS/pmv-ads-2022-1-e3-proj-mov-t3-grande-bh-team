@@ -59,11 +59,13 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Gabriel Chaves  | Cadastros de animais resgatados           | Logística de animais baseado na disponibilidade               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Gabriel Chaves       | Cadastro e Gerência de pessoas                 | Para ver/cadastrar pessoas interessadas em adotar animais |
+|Gabriel Chaves  | Criar uma ferramenta para selecionar  os animais           | O interessado adotar animais de acordo com a sua carta de intenção;               |
+|Gabriel Chaves       | Gerar um número de protocolo para cada candidatura                 | Número de protocolo para controle e identificação de prioridade de acordo com perfis |
+|Kelly Aparecida de Assunção  | Status de saúde dos animais no aplicativo           | Ter ciência da saúde do animal, como data de vacinação, possíveis internações ou quaisquer outras eventualidades               |
+|Maria Helena Bonifácio       | Status da Clínica                 | Para acompanhar a evolução da clínica e suas  necessidades, podendo assim fazer contribuições pontuais
+
+ |
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
