@@ -24,23 +24,31 @@ Veterinária, 42 anos
 Kelly, mulher de 42 anos, classe média, brasileira, mora na zona rural de Guarulhos, São Paulo. Gosta de estar com a família, dançar e conversar. Formada em Veterinária, é administradora e veterinária na Clínica Veterinária Guarulhos, parceira e apoiadora da ONG Casa do Vira Lata, contribui com atendimentos de urgência e cobra apenas pelos insumos e medicamentos utilizados nos atendimentos.
 Deseja trocar de carro, finalizar a construção de sua casa e permanecer contribuindo com a ONG.
 
-Rafael Augusto Santos Lopes
+* Rafael Augusto Santos Lopes
+
 Apoiador (Professor para a Educação Infantil), 36 anos
+
 Rafael, homem de 36 anos, classe média, brasileiro, mora em Belo Horizonte, Minas Gerais. Gosta de viajar, de música e de ficar com a família e os amigos. Formado em Geografia e Análise Ambiental, Pedagogia e estudante de Análise e Desenvolvimento de Sistemas. 
 Contribui mensalmente com a ONG por meio de pix. Deseja se recolocar no mercado em uma nova área, ser mais ousado nos projetos de vida, ter sua casa própria e viajar o quanto conseguir.
 
-Maria Helena Bonifácio
+* Maria Helena Bonifácio
+
 Apoiadora, Professora, 68 anos
+
 Maria Helena, mulher de 68 anos, classe média, brasileira, mora no Maricá, Rio de Janeiro. 
 Gosta de estar sempre trabalhando e ocupando sua mente. Curte caminhadas longas e cuidar de sua saúde física e mental.  Contribui mensalmente com a ONG através de envio de pix.
 
-Paulo Henrique Cabral dos Santos
+* Paulo Henrique Cabral dos Santos
+
 Gestor de Mídias Sociais, 45 anos
+
 Paulo, homem de 45 anos, classe média, brasileiro, mora em São Paulo, capital. Gosta de estar com a família, tocar guitarra e esportes diversos. 
 Possui graduação em Análise e Desenvolvimento de sistemas e especialização mídias sociais. É parceiro da ONG, responsável pelo gerenciamento das mídias sociais. 
 
-Wagner Siqueira
+* Wagner Siqueira
+
 Apoiador, transporte, 50 anos
+
 Wagner, homem de 50 anos, classe média, brasileiro, mora em Guarulhos, São Paulo. Gosta de viajar, colecionar moedas internacionais, jogar xadrez online e praticar esportes ao ar livre.
 Possui graduação em Logística e é pós-graduado em Gestão de Pessoas. Na ONG contribui eventualmente com o transporte de animais.
 
