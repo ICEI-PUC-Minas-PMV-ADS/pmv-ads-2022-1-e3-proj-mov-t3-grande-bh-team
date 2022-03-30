@@ -1,26 +1,42 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+##Personas 
+*Gabriel Chaves
+Idealizador e Administrador da ONG (Logística), 29 anos
+Gabriel, homem de 30 anos, classe média, brasileiro, mora em Guarulhos, São Paulo. Gosta de animais, de música, ficar com a família e amigos. Formado em Logística, atuou por muitos anos como Analista de Projetos em uma multinacional empresa varejista.
+Aos 22 anos, no ano de 2013 adotou seu primeiro animal, um cachorro. Após a adoção, passou a vivenciar diversas situações em uma comunidade onde ajudava como, por exemplo, dar carona para que pessoas levassem seus animais para castração. Nesta vivência, acabou percebendo a quantidade de animais sem moradia e decidiu usar a garagem da sua casa como abrigo para alguns animais, deixando seu próprio carro para fora. Com a pandemia e o desligamento de seu  trabalho, Gabriel acabou se dedicando mais à ONG, que consequentemente cresceu com o apoio de uma rede de parceiros e com doações de voluntários. Dessa forma vem ajudando muitos animais a se recuperarem e a conseguir um novo lar através de um “reality show” de animais resgatados e com suas histórias divulgadas através do Instagram da ONG no endereço @casadoviralata.
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+*Renata Pereira da Silva
+Comerciante, 55 anos
+Renata, mulher de 55 anos, classe média, brasileira, mora em Guarulhos, São Paulo. Gosta de atividades ao ar livre, subir em pés de árvores frutíferas, pescar, andar a cavalo, nadar em rios. 
+Formada em Administração, é comerciária e proprietária da Rações Renata com 6 unidades em Guarulhos, é apoiadora da ONG e fornece rações e diversos itens a preço de custo.
+Desejo passar mais tempo junto às filhas e aproveitar mais os amigos.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-## Personas
+Kelly Aparecida de Assunção
+Veterinária, 42 anos
+Kelly, mulher de 42 anos, classe média, brasileira, mora na zona rural de Guarulhos, São Paulo. Gosta de estar com a família, dançar e conversar. Formada em Veterinária, é administradora e veterinária na Clínica Veterinária Guarulhos, parceira e apoiadora da ONG Casa do Vira Lata, contribui com atendimentos de urgência e cobra apenas pelos insumos e medicamentos utilizados nos atendimentos.
+Deseja trocar de carro, finalizar a construção de sua casa e permanecer contribuindo com a ONG.
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Rafael Augusto Santos Lopes
+Apoiador (Professor para a Educação Infantil), 36 anos
+Rafael, homem de 36 anos, classe média, brasileiro, mora em Belo Horizonte, Minas Gerais. Gosta de viajar, de música e de ficar com a família e os amigos. Formado em Geografia e Análise Ambiental, Pedagogia e estudante de Análise e Desenvolvimento de Sistemas. 
+Contribui mensalmente com a ONG por meio de pix. Deseja se recolocar no mercado em uma nova área, ser mais ousado nos projetos de vida, ter sua casa própria e viajar o quanto conseguir.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Maria Helena Bonifácio
+Apoiadora, Professora, 68 anos
+Maria Helena, mulher de 68 anos, classe média, brasileira, mora no Maricá, Rio de Janeiro. 
+Gosta de estar sempre trabalhando e ocupando sua mente. Curte caminhadas longas e cuidar de sua saúde física e mental.  Contribui mensalmente com a ONG através de envio de pix.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Paulo Henrique Cabral dos Santos
+Gestor de Mídias Sociais, 45 anos
+Paulo, homem de 45 anos, classe média, brasileiro, mora em São Paulo, capital. Gosta de estar com a família, tocar guitarra e esportes diversos. 
+Possui graduação em Análise e Desenvolvimento de sistemas e especialização mídias sociais. É parceiro da ONG, responsável pelo gerenciamento das mídias sociais. 
+
+Wagner Siqueira
+Apoiador, transporte, 50 anos
+Wagner, homem de 50 anos, classe média, brasileiro, mora em Guarulhos, São Paulo. Gosta de viajar, colecionar moedas internacionais, jogar xadrez online e praticar esportes ao ar livre.
+Possui graduação em Logística e é pós-graduado em Gestão de Pessoas. Na ONG contribui eventualmente com o transporte de animais.
 
 ## Histórias de Usuários
 
