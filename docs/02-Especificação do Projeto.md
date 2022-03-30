@@ -1,19 +1,26 @@
 # Especificações do Projeto
 
 #Personas 
-* Gabriel Chaves *
+* Gabriel Chaves 
+
 Idealizador e Administrador da ONG (Logística), 29 anos
+
+
 Gabriel, homem de 30 anos, classe média, brasileiro, mora em Guarulhos, São Paulo. Gosta de animais, de música, ficar com a família e amigos. Formado em Logística, atuou por muitos anos como Analista de Projetos em uma multinacional empresa varejista.
 Aos 22 anos, no ano de 2013 adotou seu primeiro animal, um cachorro. Após a adoção, passou a vivenciar diversas situações em uma comunidade onde ajudava como, por exemplo, dar carona para que pessoas levassem seus animais para castração. Nesta vivência, acabou percebendo a quantidade de animais sem moradia e decidiu usar a garagem da sua casa como abrigo para alguns animais, deixando seu próprio carro para fora. Com a pandemia e o desligamento de seu  trabalho, Gabriel acabou se dedicando mais à ONG, que consequentemente cresceu com o apoio de uma rede de parceiros e com doações de voluntários. Dessa forma vem ajudando muitos animais a se recuperarem e a conseguir um novo lar através de um “reality show” de animais resgatados e com suas histórias divulgadas através do Instagram da ONG no endereço @casadoviralata.
 
 * Renata Pereira da Silva
+
 Comerciante, 55 anos
+
 Renata, mulher de 55 anos, classe média, brasileira, mora em Guarulhos, São Paulo. Gosta de atividades ao ar livre, subir em pés de árvores frutíferas, pescar, andar a cavalo, nadar em rios. 
 Formada em Administração, é comerciária e proprietária da Rações Renata com 6 unidades em Guarulhos, é apoiadora da ONG e fornece rações e diversos itens a preço de custo.
 Desejo passar mais tempo junto às filhas e aproveitar mais os amigos.
 
 * Kelly Aparecida de Assunção
+
 Veterinária, 42 anos
+
 Kelly, mulher de 42 anos, classe média, brasileira, mora na zona rural de Guarulhos, São Paulo. Gosta de estar com a família, dançar e conversar. Formada em Veterinária, é administradora e veterinária na Clínica Veterinária Guarulhos, parceira e apoiadora da ONG Casa do Vira Lata, contribui com atendimentos de urgência e cobra apenas pelos insumos e medicamentos utilizados nos atendimentos.
 Deseja trocar de carro, finalizar a construção de sua casa e permanecer contribuindo com a ONG.
 
