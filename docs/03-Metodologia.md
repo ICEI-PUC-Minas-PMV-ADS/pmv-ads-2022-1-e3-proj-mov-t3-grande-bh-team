@@ -6,6 +6,13 @@
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
 ## Relação de Ambientes de Trabalho
+|      Ambientes      |    Especificação    | Links |
+| ------------------- | ------------------- | ----- |
+|  Google Docs        |  Usada para criação da documentação |       | 
+|  Marvel App         |  Célula de conteúdo |       |
+|  Visual Studio Code |  Célula de conteúdo |       |
+|  Android Studio     |  Célula de conteúdo |       |
+|  Notepad ++         |  Célula de conteúdo |       |
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
 Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
