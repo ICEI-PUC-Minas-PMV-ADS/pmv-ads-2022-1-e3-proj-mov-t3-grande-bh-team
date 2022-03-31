@@ -85,12 +85,7 @@ O projeto se dá com a possibilidade de cadastros e acompanhamentos em tempo rea
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+![brave_WNdxzHC0y9](https://user-images.githubusercontent.com/81600423/160953821-5d3335bb-63a4-4395-9edf-604614cfcf30.png)
 
 ## Requisitos
 
