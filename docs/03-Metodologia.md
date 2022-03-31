@@ -8,11 +8,11 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 ## Relação de Ambientes de Trabalho
 |      Ambientes      |    Especificação    | Links |
 | ------------------- | ------------------- | ----- |
-|  Google Docs        |  Usada para criação da documentação |       | 
-|  Marvel App         |  Célula de conteúdo |       |
-|  Visual Studio Code |  Célula de conteúdo |       |
-|  Android Studio     |  Célula de conteúdo |       |
-|  Notepad ++         |  Célula de conteúdo |       |
+|  Google Docs        |  Usada para criação da documentação |   https://workspace.google.com/intl/pt-BR/products/docs/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-e-dr-1011272-LUAC0011906&utm_content=text-ad-none-any-DEV_c-CRE_470571214209-ADGP_Hybrid%20%7C%20BKWS%20-%20MIX%20%7C%20Txt%20~%20Docs-KWID_43700057676888777-kwd-4379564344&utm_term=KW_google%20docs-ST_google%20docs&gclid=CjwKCAjwopWSBhB6EiwAjxmqDXl5EOHQ0XUzRThAHwaHEVlrDETZbZTTofTGV-v-u6DyRy0-VmJgLRoCFyMQAvD_BwE&gclsrc=aw.ds    | 
+|  Marvel App         |  Usada para criação de designs, protóipos e wireframes |  https://marvelapp.com/     |
+|  Visual Studio Code |  Usada para desenvolvimento da aplicação em React js |  https://code.visualstudio.com/     |
+|  Android Studio     |  Usada para o desenvolvimento e testes em emuladores |   https://developer.android.com/studio?hl=pt&gclid=CjwKCAjwopWSBhB6EiwAjxmqDe93TauFdML1jUfyJNNrhlrtHBPAU2p0C89z2FW6SqUd40UuysOPVRoCcF4QAvD_BwE&gclsrc=aw.ds    |
+|  Notepad ++         |  Usada em anotações de códigos para compartilhamento e discussão do grupo |  https://notepad-plus-plus.org/downloads/     |
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
 Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
