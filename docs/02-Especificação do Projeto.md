@@ -73,19 +73,15 @@ Apresente aqui os problemas existentes que viabilizam (seria "inviabilizam"??) s
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+O projeto se dá com a possibilidade de cadastros e acompanhamentos em tempo real das intenções de adoção dos cães e gatos da Casa do Vira-Lata. A aplicação propiciará uma interação fluida e assertiva de modo a organizar e atender as dinâmicas do processo de adoção. Pretende-se programar para que as imagens dos animais passem pela tela do usuário com a possibilidade de um like ou dislike, e dessa forma um banco de animais para possívei adoção será criado. A futura família adotante poderá então escolher dentre os animais que ela previamente selecionou e se candidatar para a adoção de um ou mais destes. Em sequência registrará na aplicação a sua carta de intenção explicitando sobre os pré-requisitos sugeridos pela ONG.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Seleção de um animal pelo usuário
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+![Diagrama 1](https://user-images.githubusercontent.com/81600423/160952180-e18f359c-0983-4a3e-a807-e6689ec0eb08.png)
 
-![Processo 1](img/02-bpmn-proc1.png)
+### Processo 2 – Decisão e entrada do processo de adoção
 
-### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
+![Diagrama 2](https://user-images.githubusercontent.com/81600423/160952368-cad0d400-dfcc-4bc9-9bb0-84a6517a1727.png)
 
 ## Indicadores de Desempenho
 
