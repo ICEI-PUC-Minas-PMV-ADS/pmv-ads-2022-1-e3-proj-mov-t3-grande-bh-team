@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-#Personas 
+# Personas 
 * Gabriel Chaves 
 
 Idealizador e Administrador da ONG (Logística), 29 anos
@@ -89,36 +89,28 @@ O projeto se dá com a possibilidade de cadastros e acompanhamentos em tempo rea
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. 
 
-### Requisitos Funcionais
+## Requisitos Funcionais:
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID | Requisito | Especificação |
+| -- | --------- | ------------- |
+| 1 | Incluir/Excluir/Alterar informações de um pet | Permite o administrador gerenciar todas informações como foto, nome, idade estimada e porte do animal; |
+| 2 | Incluir/Excluir/Alterar informações de um usuário | Permite os usuários a gerenciar suas informações pessoais;  |
+| 3 | Geração de um relatório do candidato a adoção | Permite o administrador gerar todo um relatórios com as informações e requisitos de um usuário para verificar se ele se encaixa no perfil do pet |
+| 4 | Gerar meio de comunicação com um candidato específico  | Permite que o usuário ou até mesmo o administrador inicie um chat de comunicação para realizar um filtro e garantir que o animal vá e viva em um lugar seguro |
+| 5 | Gerar relatório final a respeito do status da adoção | Gera relatório final sobre a adoção, um documento com todas informações sobre o animal adotado e sua nova família; |
 
-### Requisitos não Funcionais
+## Requisitos não funcionais:
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+| ID | Requisito | Especificação |
+| -- | --------- | ------------- |
+| 1 | Autenticação de login Usuário; | Ao abrir o app, os usuários devem passar por uma autenticação por usuário e senha para aumentar a segurança de seus dados pessoais |
+| 2 | Tempo de acesso ao app; | O app deverá ter um tempo de acesso rápido, com no máximo 25 segundos de carregamento de interface; |
+| 3 | Ambiente de fácil uso; | O app tem o objetivo de ser de um uso extremamente intuitivo, facilitando a vida do usuário e administrador; |
+| 4 | Proteção a erros de usuários; | A aplicação vai ter um comprometimento de evitar e alertar todos os maus usos de usuários; |
+| 5 | Estética da interface | Interface será muito prática, intuitiva e responsiva, o objetivo principal é fazer algo clean de fácil uso; |
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -129,11 +121,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
