@@ -58,9 +58,9 @@ O potencial tutor passa por entrevista, precisa mandar fotos dos locais em que o
 
 O Match Pet seria destinado inicialmente aos seguidores do Instagram da Casa do Vira-Lata. Posteriormente poderia ser adaptado e disponibilizado para outras instituições semelhantes com o intuito de diminuir o número de animais abandonados nas ruas e em abrigos. Todos os pets merecem uma vida digna, regada com respeito, proteção e amor. Por esse motivo, ao concretizar uma adoção responsável o responsável proporciona uma vida de mais qualidade para o animal de rua ou abandonado.
 
-##Lista de Requisitos
+## Lista de Requisitos
 
-#Requisitos Funcionais:
+Requisitos Funcionais:
 
 | ID | Requisito | Especificação |
 | -- | --------- | ------------- |
