@@ -91,7 +91,7 @@ O projeto se dá com a possibilidade de cadastros e acompanhamentos em tempo rea
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. 
 
-## Requisitos Funcionais:
+# Requisitos Funcionais:
 
 | ID | Requisito | Especificação |
 | -- | --------- | ------------- |
@@ -101,7 +101,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | 4 | Gerar meio de comunicação com um candidato específico  | Permite que o usuário ou até mesmo o administrador inicie um chat de comunicação para realizar um filtro e garantir que o animal vá e viva em um lugar seguro |
 | 5 | Gerar relatório final a respeito do status da adoção | Gera relatório final sobre a adoção, um documento com todas informações sobre o animal adotado e sua nova família; |
 
-## Requisitos não funcionais:
+# Requisitos não funcionais:
 
 | ID | Requisito | Especificação |
 | -- | --------- | ------------- |
@@ -112,7 +112,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | 5 | Estética da interface | Interface será muito prática, intuitiva e responsiva, o objetivo principal é fazer algo clean de fácil uso; |
 
 
-## Restrições
+# Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
