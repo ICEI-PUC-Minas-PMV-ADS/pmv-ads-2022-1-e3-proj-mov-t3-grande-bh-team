@@ -11,8 +11,8 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 
 ## Wireframes
-
-![Exemplo de Wireframe](img/HomePage.png)
+#### Tela de Carregamento
+![Exemplo de Wireframe](img/LoadingPageor.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
