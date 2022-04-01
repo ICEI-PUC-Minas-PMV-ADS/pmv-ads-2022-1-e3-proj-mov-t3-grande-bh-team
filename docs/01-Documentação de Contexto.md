@@ -57,3 +57,17 @@ O potencial tutor passa por entrevista, precisa mandar fotos dos locais em que o
 ## Público-Alvo
 
 O Match Pet seria destinado inicialmente aos seguidores do Instagram da Casa do Vira-Lata. Posteriormente poderia ser adaptado e disponibilizado para outras instituições semelhantes com o intuito de diminuir o número de animais abandonados nas ruas e em abrigos. Todos os pets merecem uma vida digna, regada com respeito, proteção e amor. Por esse motivo, ao concretizar uma adoção responsável o responsável proporciona uma vida de mais qualidade para o animal de rua ou abandonado.
+
+##Lista de Requisitos
+
+#Requisitos Funcionais:
+
+| ID | Requisito | Especificação |
+| -- | --------- | ------------- |
+| 1 | Incluir/Excluir/Alterar informações de um pet | Permite o administrador gerenciar todas informações como foto, nome, idade estimada e porte do animal; |
+| 2 | Incluir/Excluir/Alterar informações de um usuário | Permite os usuários a gerenciar suas informações pessoais;  |
+| 3 | Geração de um relatório do candidato a adoção | Permite o administrador gerar todo um relatórios com as informações e requisitos de um usuário para verificar se ele se encaixa no perfil do pet |
+| 4 | Gerar meio de comunicação com um candidato específico  | Permite que o usuário ou até mesmo o administrador inicie um chat de comunicação para realizar um filtro e garantir que o animal vá e viva em um lugar seguro |
+| 5 | Gerar relatório final a respeito do status da adoção | Gera relatório final sobre a adoção, um documento com todas informações sobre o animal adotado e sua nova família; |
+
+
