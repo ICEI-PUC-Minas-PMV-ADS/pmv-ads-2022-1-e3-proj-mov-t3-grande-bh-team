@@ -20,7 +20,7 @@ Fonte: print screen da aplicação no sistema operacional Android.
 
 Figura 02: Sequência de imagens dos stories da do Instagram da Casa do Vira-Lata relatando um resumo da trajetória do cão Caio:
 
-![Imagem 2](https://user-images.githubusercontent.com/81600423/160509130-a44ded8e-a3b8-47e2-97b5-d80e687e21dd.png)
+![Imagem 2](https://user-images.githubusercontent.com/81600423/161315002-3f736505-0c86-49bb-b3ce-ad516b2ca35e.png)
 
 Fonte: print screen da aplicação no sistema operacional Android.
 
