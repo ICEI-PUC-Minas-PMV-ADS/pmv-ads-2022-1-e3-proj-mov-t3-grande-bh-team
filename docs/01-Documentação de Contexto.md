@@ -70,4 +70,14 @@ Requisitos Funcionais:
 | 4 | Gerar meio de comunicação com um candidato específico  | Permite que o usuário ou até mesmo o administrador inicie um chat de comunicação para realizar um filtro e garantir que o animal vá e viva em um lugar seguro |
 | 5 | Gerar relatório final a respeito do status da adoção | Gera relatório final sobre a adoção, um documento com todas informações sobre o animal adotado e sua nova família; |
 
+Requisitos não funcionais:
+
+| ID | Requisito | Especificação |
+| -- | --------- | ------------- |
+| 1 | Autenticação de login Usuário; | Ao abrir o app, os usuários devem passar por uma autenticação por usuário e senha para aumentar a segurança de seus dados pessoais |
+| 2 | Tempo de acesso ao app; | O app deverá ter um tempo de acesso rápido, com no máximo 25 segundos de carregamento de interface; |
+| 3 | Ambiente de fácil uso; | O app tem o objetivo de ser de um uso extremamente intuitivo, facilitando a vida do usuário e administrador; |
+| 4 | Proteção a erros de usuários; | A aplicação vai ter um comprometimento de evitar e alertar todos os maus usos de usuários; |
+| 5 | Estética da interface | Interface será muito prática, intuitiva e responsiva, o objetivo principal é fazer algo clean de fácil uso; |
+
 
