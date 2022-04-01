@@ -8,14 +8,12 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 ## Relação de Ambientes de Trabalho
 |      Ambientes      |    Especificação    | Links |
 | ------------------- | ------------------- | ----- |
-|  Google Docs        |  Usada para criação da documentação |   https://workspace.google.com/intl/pt-BR/products/docs/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-e-dr-1011272-LUAC0011906&utm_content=text-ad-none-any-DEV_c-CRE_470571214209-ADGP_Hybrid%20%7C%20BKWS%20-%20MIX%20%7C%20Txt%20~%20Docs-KWID_43700057676888777-kwd-4379564344&utm_term=KW_google%20docs-ST_google%20docs&gclid=CjwKCAjwopWSBhB6EiwAjxmqDXl5EOHQ0XUzRThAHwaHEVlrDETZbZTTofTGV-v-u6DyRy0-VmJgLRoCFyMQAvD_BwE&gclsrc=aw.ds    | 
-|  Marvel App         |  Usada para criação de designs, protóipos e wireframes |  https://marvelapp.com/     |
-|  Visual Studio Code |  Usada para desenvolvimento da aplicação em React js |  https://code.visualstudio.com/     |
-|  Android Studio     |  Usada para o desenvolvimento e testes em emuladores |   https://developer.android.com/studio?hl=pt&gclid=CjwKCAjwopWSBhB6EiwAjxmqDe93TauFdML1jUfyJNNrhlrtHBPAU2p0C89z2FW6SqUd40UuysOPVRoCcF4QAvD_BwE&gclsrc=aw.ds    |
-|  Notepad ++         |  Usada em anotações de códigos para compartilhamento e discussão do grupo |  https://notepad-plus-plus.org/downloads/     |
-
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+|  Google Docs        |  Usada para criação da documentação; |   https://workspace.google.com/intl/pt-BR/products/docs/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-e-dr-1011272-LUAC0011906&utm_content=text-ad-none-any-DEV_c-CRE_470571214209-ADGP_Hybrid%20%7C%20BKWS%20-%20MIX%20%7C%20Txt%20~%20Docs-KWID_43700057676888777-kwd-4379564344&utm_term=KW_google%20docs-ST_google%20docs&gclid=CjwKCAjwopWSBhB6EiwAjxmqDXl5EOHQ0XUzRThAHwaHEVlrDETZbZTTofTGV-v-u6DyRy0-VmJgLRoCFyMQAvD_BwE&gclsrc=aw.ds    | 
+|  Marvel App         |  Usada para criação de designs, protóipos e wireframes; |  https://marvelapp.com/     |
+|  Visual Studio Code |  Usada para desenvolvimento da aplicação em React js; |  https://code.visualstudio.com/     |
+|  Android Studio     |  Usada para o desenvolvimento e testes em emuladores; |   https://developer.android.com/studio?hl=pt&gclid=CjwKCAjwopWSBhB6EiwAjxmqDe93TauFdML1jUfyJNNrhlrtHBPAU2p0C89z2FW6SqUd40UuysOPVRoCcF4QAvD_BwE&gclsrc=aw.ds    |
+|  Notepad ++         |  Usada em anotações de códigos para compartilhamento e discussão do grupo; |  https://notepad-plus-plus.org/downloads/     |
+|  GitHub         |  Usado para gestão do codigo fonte e controle de versão simultaneos, mantendo todos os membros da equipe atualizados; |  https://github.com     |
 
 ## Controle de Versão
 
@@ -25,18 +23,18 @@ foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
+- `Master`: versão estável já testada do software
+- `homolog`: versão já testada do software, porém instável
 - `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+- `Developer`: versão de desenvolvimento do software
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+- `documentation`: Melhorias ou acréscimos à documentação ao decorrer do desenvolviment;
+- `bugs`: Funcionalidades com problemas a ser resolvidos;
+- `enhancement`: Algumas Funcionalidades que precisam ser melhoradas;
+- `feature`: Algumas funcionalidades que precisam ser introduzidas;
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
@@ -55,10 +53,10 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 Apresente a divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+- Scrum Master: Gabriel Aguiar;
+- Product Owner: Rafael;
+- Equipe de Desenvolvimento: Isaac Gabriel, Lucas, Rafael;
+- Equipe de Design: Isaac.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
@@ -77,18 +75,5 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 > - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
-### Ferramentas
 
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+                  
