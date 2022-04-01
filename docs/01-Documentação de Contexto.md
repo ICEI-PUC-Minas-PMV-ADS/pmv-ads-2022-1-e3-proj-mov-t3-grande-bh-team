@@ -14,7 +14,7 @@ Diante do número cada vez mais elevado de seguidores, em sua maioria fãs dos c
 
 Figura 01: Sequência de imagens dos stories da do Instagram da Casa do Vira-Lata relatando um resumo da trajetória do cão Caio:
 
-                   ![Imagem 1](https://user-images.githubusercontent.com/81600423/161314062-fb7ef54c-cd7d-40a5-b07e-9ef6665fb70a.png)
+![Imagem 1](https://user-images.githubusercontent.com/81600423/161314062-fb7ef54c-cd7d-40a5-b07e-9ef6665fb70a.png)
 
 Fonte: print screen da aplicação no sistema operacional Android.
 
