@@ -62,8 +62,7 @@ A lista a seguir identifica os itens que foram identificados como alvos do teste
 |Itens Plano de Teste| Conteúdo                                             |
 |--|-------------------------------------------------------|
 |1. Introdução| Principal objetivo de identificar acertos e possíveis manutenções e melhorias a serem feitas no sistema, o teste será feito com o usuário que se propõe a candidatar para adoção de um animal |
-|2. Requisitos a serem testados| Login; Cadastro usuários; Recuperação de senha; Cadastro animais; Cadastro candidaturas; Aceitação de candidaturas
-Comunicação; Agendamento, recomendações sobre o pet e acompanhamento de datas; Logout     |
+|2. Requisitos a serem testados| Login; Cadastro usuários; Recuperação de senha; Cadastro animais; Cadastro candidaturas; Permissão de candidaturas; Comunicação; Agendamento, recomendações sobre o pet e acompanhamento de datas; Logout     |
 |3. Estratégias e ferramentas de teste| Será feito testes em diversos computadores locais e smartphones com diferentes usuários, ao menos 3        |
 |4. Equipe e infra-estrutura| Equipe de desenvolvedores e testers é composta por: Gabriel - Desenvolvedor/Tester, Isaac - Desenvolvedor/Tester, Lucas - Desenvolvedor/Tester, Rafael - Desenvolvedor/Tester. Infraestrutura para testes: 4 desktops e 4 smartphones com acesso à aplicação        |
 |5. Cronograma de atividades| Todos os testes serão realizados após a finalização do desenvolvimento da aplicação        |
