@@ -1,11 +1,15 @@
-# Plano de Testes de Usabilidade
+## Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+O planejamento dos testes de usabilidade a serem realizados com usuários são descritos na Tabela a seguir:
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
-
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+|Objetivo| Pessoas | Tarefas|
+|--------------------|------------------------------------|----------------------------------------|
+|Verificar se o usuário consegue se cadastrar  no sistema  | Rafael Lopes, 36 anos, Professor; Gabriel Chaves, 29 anos, Administrador da ONG; Gabriel Aguiar, 21 anos, Programador Junior           | Acessar a página inicial; Clicar no botão “cadastrar usuário" ; Preencher as informações necessárias; Enviar o formulário; Verificar se o usuário consegue acessar os detalhes de um usuário cadastrado; Verificar se o usuário consegue editar suas informações no sistema; Verificar se o adm consegue deletar um cadastro efetuado.               |
+|Verificar se o usuário consegue acessar o sistema após ter feito o cadastro com sucesso  | Maria Helena, 68 anos, Professora           | Acessar a página inicial; Preencher as informações de login e senha; Clicar no botão “entrar”             |
+|Gabriel Chaves  | Cadastros de animais resgatados           | Logística de animais baseado na disponibilidade               |
+|Gabriel Chaves  | Cadastros de animais resgatados           | Logística de animais baseado na disponibilidade               |
+|Gabriel Chaves  | Cadastros de animais resgatados           | Logística de animais baseado na disponibilidade               |
+|Gabriel Chaves  | Cadastros de animais resgatados           | Logística de animais baseado na disponibilidade               |
+|Gabriel Chaves  | Cadastros de animais resgatados           | Logística de animais baseado na disponibilidade               |
+|Gabriel Chaves  | Cadastros de animais resgatados           | Logística de animais baseado na disponibilidade               |
+|Gabriel Chaves  | Cadastros de animais resgatados           | Logística de animais baseado na disponibilidade               |
