@@ -69,3 +69,12 @@ A lista a seguir identifica os itens que foram identificados como alvos do teste
 |4. Equipe e infra-estrutura| Equipe de desenvolvedores e testers é composta por: Gabriel - Desenvolvedor/Tester, Isaac - Desenvolvedor/Tester, Lucas - Desenvolvedor/Tester, Rafael - Desenvolvedor/Tester. Infraestrutura para testes: 4 desktops e 4 smartphones com acesso à aplicação        |
 |5. Cronograma de atividades| Todos os testes serão realizados após a finalização do desenvolvimento da aplicação        |
 
+# Teste da Interface com o Usuário
+
+O teste da Interface com o Usuário verifica a interação de um usuário com o software. A meta do Teste de UI é assegurar que a Interface com o Usuário forneça ao usuário o acesso e a navegação adequados por meio das funções dos aplicativos. Além disso, o Teste de UI assegura que os objetos contidos na UI funcionem conforme esperado e estejam em conformidade com padrões corporativos ou do segmento de mercado.
+
+|Objetivo do Teste| Verificar                                             |
+|--|-------------------------------------------------------|
+|Técnico| A navegação pelo aplicativo reflete os requisitos e funções de negócios, incluindo a navegação janela a janela, campo a campo e o uso de métodos de acesso; Objetos e características da aplicação, tais como menus, tamanho, posição, estado e foco estão em conformidade com os padrões; Criar / modificar testes para cada janela a fim de verificar a navegação adequada e os estados de objeto para cada janela e objeto do aplicativo. |
+|Critérios de Conclusão| Verificação com êxito de cada janela permanecer consistente ou dentro do padrão aceitável |
+
