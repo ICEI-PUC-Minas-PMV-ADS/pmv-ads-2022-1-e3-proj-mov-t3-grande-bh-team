@@ -3,8 +3,7 @@
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
-
-![Arquitetura da Solução](img/02-mob-arch.png)
+![Casa do Vira2](https://user-images.githubusercontent.com/81600423/161388321-f4e7d0ad-f74c-4c14-8bc4-56da7000a99e.png)
 
 ## Diagrama de Classes
 
