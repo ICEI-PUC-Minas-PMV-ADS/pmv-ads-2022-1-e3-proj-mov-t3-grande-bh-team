@@ -28,7 +28,6 @@ Diante do exposto, o objetivo integral deste trabalho é criar uma aplicação m
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
-* API própria em C#
 * React Native
 * Banco de dados
 
