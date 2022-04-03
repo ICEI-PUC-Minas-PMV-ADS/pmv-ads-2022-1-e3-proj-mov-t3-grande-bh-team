@@ -216,7 +216,7 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 
 
 
-![orçamento](img/02-orçamento.png)
+![orçamento](img/orçamento.png)
 
 
 
