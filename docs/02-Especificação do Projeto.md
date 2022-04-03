@@ -183,41 +183,31 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo. 
 
-![Orçamento](img/02-orcamento.png)
-
-![casos de uso](docs/casosdeuso.png)
+![orçamento](img/orçamento.png)
 
 ## diagrama de casos de uso
+
 ![casos de uso](img/casos de uso.jpg)
 
 ## gerenciamento de tempo
 
 
 | Cód | Nome da tarefa | Duracao | Inico | termino | predecessores |
-|-----|-------------|-----------|------|-------------|--------|----------------|
-| 1 | projeto matchPat | 181 dias | ter 01/02/22 |dom 31/07/22 | Pendente
-| 2 | entraga equipamentos | 1 dia |ter 01/02/22 | ter 01/02/22 |
-| 3 | testar equipamentos | 30 dias |qua 02/02/22 | qua 02/03/22 |
-| 4 | istalar equipamentos |66 dias |qui 03/03/22 | dom 08/05/22 |
-| 5 | escrever progamas | 90 dias |seg 09/05/22 | sex09/06/22 |
-| 6 | testar e depurar | 20 dias|sab 09/06 /22 |sex 29/06/22 |
-| 7 | treinar usuarios | 15 dias |29/06/22 | qui 14/07/22 |
-| 8 | aceitacao | 20 dias |qui 14/07/22 | dom 31/07/22 |
-
-
-
-## gerenciamento de equipe
-
+|-----|----------------|---------|-------|---------|---------------|
+| 1   | projeto matchPat | 181 dias | ter 01/02/22 |dom 31/07/22 |  |
+| 2   | entraga equipamentos | 1 dia |ter 01/02/22 | ter 01/02/22 | |
+| 3   | testar equipamentos | 30 dias |qua 02/02/22 | qua 02/03/22 | |
+| 4   | instalar equipamentos |66 dias |qui 03/03/22 | dom 08/05/22 | |
+| 5   | escrever progamas | 90 dias |seg 09/05/22 | sex09/06/22 | |
+| 6   | testar e depurar | 20 dias|sab 09/06 /22 |sex 29/06/22 | |
+| 7   | treinar usuarios | 15 dias |29/06/22 | qui 14/07/22 | |
+| 8   | aceitação | 20 dias |qui 14/07/22 | dom 31/07/22 | | 
+ 
 
 
 
 
 
-## Gestao de orçamento
-
-
-
-![orçamento](img/orçamento.png)
 
 
 
