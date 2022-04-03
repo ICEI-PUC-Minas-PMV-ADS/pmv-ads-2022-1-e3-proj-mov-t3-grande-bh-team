@@ -173,10 +173,10 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 |       Nome do Time       |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
 |--------------------------|------------------------------|--------------------------|---------------------------|--------------------------|-----------------------|
-|       Marketing          |           Sem atividades     |       Sem atividades     |           Sem atividades           |           Sem atividades           |           Sem atividades       |
-|       Interface          |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
-|       Desenvolvimento    |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
-|       Tester             |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
+|       Marketing          |           Sem atividades     |       Sem atividades     |            Divulgação           |    Divulgação      |    Sem atividades     |
+|       Interface          |           Inicio do desenvolvimento do prototipo   |          Compartilhamento do prótotipo|                      |     |        |
+|       Desenvolvimento    | Sem atividades |Sem atividades | Inicio do desenvolvimento|                    |                  |
+|       Tester             |                     |                     |                      |                      |                  |
 
 ## Gestão de Orçamento
 
