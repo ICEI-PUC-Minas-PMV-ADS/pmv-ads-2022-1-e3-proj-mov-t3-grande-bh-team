@@ -177,3 +177,39 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo. 
 
 ![Orçamento](img/02-orcamento.png)
+![casos de uso](img/casos de uso.jpg)
+
+## diagrama de casos de uso
+![casos de uso](img/casos de uso.jpg)
+
+## gerenciamento de tempo
+
+
+
+| Cód |  Nome da tarefa | Duracao | Inico | termino | predecessores |   |
+|-----|-------------|-----------|------|-------------|--------|----------------|
+| 1 |  projeto matchPat | 181 dias | ter 01/02/22 |dom 31/07/22 | Pendente  |
+| 2 |  entraga equipamentos | 1 dia | /02/22 | ter 01/02/22 |  |
+| 3 |  testar equipamentos | 30 dias | /22 | ter 01/02/22 | |
+| 4 |  istalar equipamentos |66 dias | /22 |  ter 01/02/22 | |
+| 5 |  escrever progamas | 90 dias | /22  |  ter 01/02/22 |  |
+| 6 |  testar e depurar | 20 dias| /22 |  ter 01/02/22 | |
+| 7 |  treinar usuarios | 15 dias  |  /22 |  ter 01/02/22 |  |
+| 8 |  aceitacao | 20 dias |  /22 |  dom 31/07/22  | |
+
+ ## gerenciamento de equipe
+
+
+
+
+ ## Gestao de orçamento
+
+|Orçamento   |
+|-----|-------------|
+| Recursos humanos |   (R$)|  
+| Hardware | 500.000,00 |
+| Rede |  1.600,00  |
+| Software | 52.000,00   |
+| Serviços | 4.200,00  |
+| Total |  58.300,00   |
+
