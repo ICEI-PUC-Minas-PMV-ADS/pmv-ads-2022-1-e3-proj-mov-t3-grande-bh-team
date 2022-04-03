@@ -172,10 +172,11 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |       Nome do Time       |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
 |--------------------------|------------------------------|--------------------------|---------------------------|--------------------------|-----------------------|
-|       Marketing       |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
-|       Interface       |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
-|       Desenvolvimento       |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
-|       Tester       |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
+|       Marketing          |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
+|       Interface          |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
+|       Desenvolvimento    |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
+|       Tester             |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
+
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
 ![Simple Project Timeline](img/02-project-timeline.png)
