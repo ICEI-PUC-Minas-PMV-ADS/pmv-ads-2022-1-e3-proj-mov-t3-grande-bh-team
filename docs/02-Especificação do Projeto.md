@@ -169,7 +169,9 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 ## Gerenciamento de Equipe
 
 |                                                                          2022                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |       Nome do Time       |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |       Marketing       |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
 |       Interface       |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
 |       Desenvolvimento       |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
