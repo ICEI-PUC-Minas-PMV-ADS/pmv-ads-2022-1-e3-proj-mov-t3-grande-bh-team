@@ -173,7 +173,7 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 |       Nome do Time       |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
 |--------------------------|------------------------------|--------------------------|---------------------------|--------------------------|-----------------------|
-|       Marketing          |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
+|       Marketing          |           Sem atividades     |       Sem atividades     |           Sem atividades           |           Sem atividades           |           Sem atividades       |
 |       Interface          |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
 |       Desenvolvimento    |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
 |       Tester             |           Fevereiro          |          Março           |           Abril           |           Maio           |           Junho       |
