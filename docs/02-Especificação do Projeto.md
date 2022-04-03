@@ -187,7 +187,7 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 
 ## diagrama de casos de uso
 
-![casos de uso](img/casos de uso.jpg)
+![casos de uso](docs/img/casosdeuso.png)
 
 ## gerenciamento de tempo
 
