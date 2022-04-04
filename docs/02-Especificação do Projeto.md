@@ -184,16 +184,16 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 
 ![orçamento](img/orçamento.png)
 
-## diagrama de casos de uso
+## Diagrama de casos de uso
 
 ![casos de uso](img/casosdeuso.png)
 
-## gerenciamento de tempo
+## Gerenciamento de tempo
 
 
-| Cód | Nome da tarefa | Duracao | Inico | termino | predecessores |
+| Cód | Nome da tarefa | Duração | Início | Término | Predecessores |
 |-----|----------------|---------|-------|---------|---------------|
-| 1   | Projeto matchPet | 181 dias | ter 01/02/22 |dom 31/07/22 |  |
+| 1   | Projeto MatchPet | 181 dias | ter 01/02/22 |dom 31/07/22 |  |
 | 2   | Entragar equipamentos | 1 dia |ter 01/02/22 | ter 01/02/22 | |
 | 3   | Testar equipamentos | 30 dias |qua 02/02/22 | qua 02/03/22 | |
 | 4   | Instalar equipamentos |66 dias |qui 03/03/22 | dom 08/05/22 | |
